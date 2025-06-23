@@ -240,7 +240,7 @@ body:has(.dialog[open]) {
 }
 
 .card__image-32 {
-  filter: brightness(100%), hue-rotate(0.5turn);
+  filter: hue-rotate(0.5turn) brightness(100%) contrast(1.2);
 }
 
 .card__image-41 {
