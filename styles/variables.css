@@ -10,18 +10,19 @@
   --animation-fill-color: #ff0000;
 
   --main-font: "Inter-Variable", "Arial", monospace;
-  --pixel-font: "Press Start 2P", "Arial", monospace;
+  --pixel-font: "Press Start 2P", "Arial", fantasy;
   --main-text-size: 18px;
   --button-text-size: 14px;
   --main-text-weight: 400;
-  --h2-text-weight: 700;
+  --title-text-weight: 700;
 
-  --h1-text-size: clamp(0.875rem, 0.226rem + 2.7692vw, 1.4375rem);
-  --logo-text-size: clamp(3.0625rem, 1.9087rem + 4.9231vw, 4.0625rem);
+  --header-title-text-size: clamp(0.875rem, 0.226rem + 2.7692vw, 1.4375rem);
+  --header-logo-text-size: clamp(3.0625rem, 1.9087rem + 4.9231vw, 4.0625rem);
   --header-width-size: clamp(375px, 16.2852rem + 30.5164vw, 700px);
-  --header-height-size: clamp(327px, 19.5352rem + 3.8498vw, 368px);
+  --header-padding: clamp(120px, 7.3239rem + 0.7512vw, 128px);
   --save-width-size: clamp(310px, 18.7368rem + 2.723vw, 339px);
-  --dialog-width-size: clamp(21.3125rem, 21.0484rem + 1.1268vw, 22.0625rem);
+  --dialog-width-size: clamp(341px, 20.9604rem + 1.5023vw, 357px);
+  --dialog-gorizontal-padding-size: clamp(40px, 3.0964rem + -2.5445vw, 30px);
   --label-padding-top: clamp(23px, 1.3935rem + 0.1878vw, 25px);
   --label-padding-right: clamp(11px, 0.3794rem + 1.3146vw, 25px);
 }

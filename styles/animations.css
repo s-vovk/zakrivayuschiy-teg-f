@@ -16,7 +16,6 @@
   }
   to {
     transform: scale(1.25);
-    transform-origin: center center;
   }
 }
 
