@@ -232,35 +232,35 @@ body:has(.dialog[open]) {
 }
 
 /* Фильтры для картинок */
-.card__image-0 {
+.filter-brightness {
   filter: brightness(150%);
 }
 
-.card__image-11 {
+.filter-saturate {
   filter: saturate(150%);
 }
 
-.card__image-12 {
+.filter-contrast {
   filter: contrast(130%);
 }
 
-.card__image-21 {
+.filter-grayscale {
   filter: grayscale(100%);
 }
 
-.card__image-22 {
+.filter-blur {
   filter: blur(6px);
 }
 
-.card__image-31 {
+.filter-invert {
   filter: invert(100%);
 }
 
-.card__image-32 {
+.filter-comlex {
   filter: hue-rotate(0.5turn) brightness(100%) contrast(1.2);
 }
 
-.card__image-41 {
+.filter-sepia {
   filter: sepia(100%);
 }
 
